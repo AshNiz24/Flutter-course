@@ -1,1 +1,7 @@
-
+echo "# i_am_poor" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/AshNiz24/i_am_poor.git
+git push -u origin master
+                
